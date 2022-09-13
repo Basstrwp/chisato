@@ -36,8 +36,5 @@ WhatsApp Connection (BETA, not working perfectly)
 ## announcement 
 • to run bots on servers like railway.app if you want auto reload
 to run bots on servers like railway.app if you want auto reload
-  when a crash / error occurs then use the Dockerfile 
-
-Editing Number Owner And More On [`settings.js`](https://github.com/NzrlAfndi/Ichigo-Kurosaki/blob/master/settings.js)
-
+  when a crash / error occurs then use the Dockerfile
 
