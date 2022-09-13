@@ -1,0 +1,41 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "gLcdyYuTJ1L+sARcGa8EACEPyNrxOivTYNOf8UIyAXc="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "AWz39YgZZbjwA+a+Uw2J2IA6CRqac5W4s08HMH18bGw="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "oIDeV5nCmaFd2XM1qV4QhKMlQSDoBtgZPd7NhzMnbFY="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "GXhKT/PjoIknsWLkiNGejpbH4a5w6Yg32Ik/gaGjeX8="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "mPohnmx1ZjgIpcTYTeXQgQ2nU7n49DD3acWAODthw2M="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "Q81gALqs/t2YA3jJCv5OIAiw348XOxvvrpEiKDO0KSc="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "+cKMIfSzYySySbvciLcYTe+aSUbONFqDeAPXfE1hgobj6laDoS5i6r1V66
+WHwiAvGxxP2ptGWJPGJ0krGCFIBA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 40,
